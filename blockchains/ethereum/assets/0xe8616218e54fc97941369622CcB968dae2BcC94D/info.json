@@ -1,0 +1,14 @@
+{
+    "name": "Okami",
+    "description": "",
+    "explorer": "https://etherscan.io/token/0xe8616218e54fc97941369622CcB968dae2BcC94D",
+    "type": "ERC20",
+    "symbol": "OKM",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xe8616218e54fc97941369622CcB968dae2BcC94D",
+    "tags": [
+        "Defi"
+    ],
+    "links": []
+}

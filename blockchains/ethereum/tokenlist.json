@@ -1,7 +1,7 @@
 {
     "name": "Trust Wallet: Ethereum",
     "logoURI": "https://trustwallet.com/assets/images/favicon.png",
-    "timestamp": "2022-11-24T02:38:06.382073",
+    "timestamp": "2022-11-25T20:03:44.099567",
     "tokens": [
         {
             "asset": "c60_t0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
@@ -3394,10 +3394,19 @@
             "symbol": "GCC",
             "decimals": 18,
             "logoURI": "https://assets.trustwalletapp.com/blockchains/ethereum/assets/0xAfbB5DafaceA3cFe1001357449e2ea268e50F368/logo.png"
+        },
+        {
+            "asset": "c60_t0xe8616218e54fc97941369622CcB968dae2BcC94D",
+            "type": "ERC20",
+            "address": "0xe8616218e54fc97941369622CcB968dae2BcC94D",
+            "name": "Okami",
+            "symbol": "OKM",
+            "decimals": 18,
+            "logoURI": "https://assets.trustwalletapp.com/blockchains/ethereum/assets/0xe8616218e54fc97941369622CcB968dae2BcC94D/logo.png"
         }
     ],
     "version": {
-        "major": 46,
+        "major": 47,
         "minor": 0,
         "patch": 0
     }
