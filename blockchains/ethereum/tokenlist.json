@@ -1,7 +1,7 @@
 {
     "name": "Trust Wallet: Ethereum",
     "logoURI": "https://trustwallet.com/assets/images/favicon.png",
-    "timestamp": "2022-11-25T20:03:44.099567",
+    "timestamp": "2022-11-27T10:23:26.992476",
     "tokens": [
         {
             "asset": "c60_t0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
@@ -3403,10 +3403,19 @@
             "symbol": "OKM",
             "decimals": 18,
             "logoURI": "https://assets.trustwalletapp.com/blockchains/ethereum/assets/0xe8616218e54fc97941369622CcB968dae2BcC94D/logo.png"
+        },
+        {
+            "asset": "c60_t0xdAd33e12e61dC2f2692F2c12e6303B5Ade7277Ba",
+            "type": "ERC20",
+            "address": "0xdAd33e12e61dC2f2692F2c12e6303B5Ade7277Ba",
+            "name": "Brewlabs",
+            "symbol": "BREWLABS",
+            "decimals": 9,
+            "logoURI": "https://assets.trustwalletapp.com/blockchains/ethereum/assets/0xdAd33e12e61dC2f2692F2c12e6303B5Ade7277Ba/logo.png"
         }
     ],
     "version": {
-        "major": 47,
+        "major": 48,
         "minor": 0,
         "patch": 0
     }

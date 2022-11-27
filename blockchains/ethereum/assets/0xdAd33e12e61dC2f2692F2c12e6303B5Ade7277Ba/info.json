@@ -1,0 +1,32 @@
+{
+    "name": "Brewlabs",
+    "website": "https://brewlabs.info",
+    "description": "Brewlabs is a Ethereum utility project responsible for a number of community tools and platforms within the cryptocurrency space.",
+    "explorer": "https://etherscan.io/token/0xdAd33e12e61dC2f2692F2c12e6303B5Ade7277Ba",
+    "type": "ERC20",
+    "symbol": "BREWLABS",
+    "decimals": 9,
+    "status": "active",
+    "id": "0xdAd33e12e61dC2f2692F2c12e6303B5Ade7277Ba",
+    "tags": [
+        "Defi"
+    ],
+    "links": [
+        {
+            "name": "github",
+            "url": "https://github.com/brewlabs-code"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/teambrewlabs"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/brewlabs"
+        },
+        {
+            "name": "coingecko",
+            "url": "https://www.coingecko.com/en/coins/brewlabs"
+        }
+    ]
+}
