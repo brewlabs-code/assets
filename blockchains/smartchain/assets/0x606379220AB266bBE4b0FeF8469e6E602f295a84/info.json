@@ -1,0 +1,15 @@
+{
+    "name": "Glow Token",
+    "description": "",
+    "website": "https://www.glowtoken.net",
+    "explorer": "https://bscscan.com/token/0x606379220AB266bBE4b0FeF8469e6E602f295a84",
+    "type": "BEP20",
+    "symbol": "GLOW",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x606379220AB266bBE4b0FeF8469e6E602f295a84",
+    "tags": [
+        "defi"
+    ],
+    "links": []
+}
