@@ -1,7 +1,7 @@
 {
     "name": "Trust Wallet: Ethereum",
     "logoURI": "https://trustwallet.com/assets/images/favicon.png",
-    "timestamp": "2022-11-27T10:23:26.992476",
+    "timestamp": "2022-12-16T09:26:16.955077",
     "tokens": [
         {
             "asset": "c60_t0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
@@ -3412,10 +3412,19 @@
             "symbol": "BREWLABS",
             "decimals": 9,
             "logoURI": "https://assets.trustwalletapp.com/blockchains/ethereum/assets/0xdAd33e12e61dC2f2692F2c12e6303B5Ade7277Ba/logo.png"
+        },
+        {
+            "asset": "c60_t0x5955f7d312c5d84B004d259D55072C4F0A478dBC",
+            "type": "ERC20",
+            "address": "0x5955f7d312c5d84B004d259D55072C4F0A478dBC",
+            "name": "Balto Token",
+            "symbol": "BALTO",
+            "decimals": 18,
+            "logoURI": "https://assets.trustwalletapp.com/blockchains/ethereum/assets/0x5955f7d312c5d84B004d259D55072C4F0A478dBC/logo.png"
         }
     ],
     "version": {
-        "major": 48,
+        "major": 49,
         "minor": 0,
         "patch": 0
     }

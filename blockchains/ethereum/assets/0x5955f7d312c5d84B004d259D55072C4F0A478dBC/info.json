@@ -1,0 +1,15 @@
+{
+    "name": "Balto Token",
+    "website": "https://baltotoken.com/",
+    "description": "",
+    "explorer": "https://etherscan.io/token/0x5955f7d312c5d84B004d259D55072C4F0A478dBC",
+    "type": "ERC20",
+    "symbol": "BALTO",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x5955f7d312c5d84B004d259D55072C4F0A478dBC",
+    "tags": [
+        "Defi"
+    ],
+    "links": []
+}
