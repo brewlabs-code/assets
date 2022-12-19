@@ -1,0 +1,15 @@
+{
+    "name": "Pomeranian",
+    "website": "https://www.pomeranian.dev",
+    "description": "",
+    "explorer": "https://etherscan.io/token/0x24ffe459F51ea20C5d8ad49843529fc33654e7E4",
+    "type": "ERC20",
+    "symbol": "POM",
+    "decimals": 9,
+    "status": "active",
+    "id": "0x24ffe459F51ea20C5d8ad49843529fc33654e7E4",
+    "tags": [
+        "Defi"
+    ],
+    "links": []
+}
