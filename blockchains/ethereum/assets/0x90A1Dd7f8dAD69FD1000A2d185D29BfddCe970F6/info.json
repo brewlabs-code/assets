@@ -1,0 +1,14 @@
+{
+    "name": "Funicular Token",
+    "description": "",
+    "explorer": "https://etherscan.io/token/0x90A1Dd7f8dAD69FD1000A2d185D29BfddCe970F6",
+    "type": "ERC20",
+    "symbol": "FUNICULAR",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x90A1Dd7f8dAD69FD1000A2d185D29BfddCe970F6",
+    "tags": [
+        "Defi"
+    ],
+    "links": []
+}

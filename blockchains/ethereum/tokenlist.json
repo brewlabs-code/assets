@@ -1,7 +1,7 @@
 {
     "name": "Trust Wallet: Ethereum",
     "logoURI": "https://trustwallet.com/assets/images/favicon.png",
-    "timestamp": "2022-12-20T00:47:50.856429",
+    "timestamp": "2022-12-21T09:57:13.139698",
     "tokens": [
         {
             "asset": "c60_t0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
@@ -3430,10 +3430,19 @@
             "symbol": "POM",
             "decimals": 9,
             "logoURI": "https://assets.trustwalletapp.com/blockchains/ethereum/assets/0x24ffe459F51ea20C5d8ad49843529fc33654e7E4/logo.png"
+        },
+        {
+            "asset": "c60_t0x90A1Dd7f8dAD69FD1000A2d185D29BfddCe970F6",
+            "type": "ERC20",
+            "address": "0x90A1Dd7f8dAD69FD1000A2d185D29BfddCe970F6",
+            "name": "Funicular Token",
+            "symbol": "FUNICULAR",
+            "decimals": 18,
+            "logoURI": "https://assets.trustwalletapp.com/blockchains/ethereum/assets/0x90A1Dd7f8dAD69FD1000A2d185D29BfddCe970F6/logo.png"
         }
     ],
     "version": {
-        "major": 50,
+        "major": 51,
         "minor": 0,
         "patch": 0
     }
