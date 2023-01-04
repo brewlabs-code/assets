@@ -1,7 +1,7 @@
 {
     "name": "Trust Wallet: Smart Chain",
     "logoURI": "https://trustwallet.com/assets/images/favicon.png",
-    "timestamp": "2023-01-04T22:00:05.880842",
+    "timestamp": "2023-01-04T22:22:21.842847",
     "tokens": [
         {
             "asset": "c20000714_t0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
@@ -1228,10 +1228,19 @@
             "symbol": "LNDLRD",
             "decimals": 18,
             "logoURI": "https://assets.trustwalletapp.com/blockchains/smartchain/assets/0xd6dA6491A6663B1d413715f4fD8eDD74a4b47694/logo.png"
+        },
+        {
+            "asset": "c20000714_t0x733Af324146DCfe743515D8D77DC25140a07F9e0",
+            "type": "BEP20",
+            "address": "0x733Af324146DCfe743515D8D77DC25140a07F9e0",
+            "name": "Shido Inu",
+            "symbol": "SHIDO",
+            "decimals": 9,
+            "logoURI": "https://assets.trustwalletapp.com/blockchains/smartchain/assets/0x733Af324146DCfe743515D8D77DC25140a07F9e0/logo.png"
         }
     ],
     "version": {
-        "major": 66,
+        "major": 67,
         "minor": 0,
         "patch": 0
     }

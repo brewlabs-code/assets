@@ -1,0 +1,15 @@
+{
+    "name": "Shido Inu",
+    "description": "",
+    "website": "https://www.shido.finance",
+    "explorer": "https://bscscan.com/token/0x733Af324146DCfe743515D8D77DC25140a07F9e0",
+    "type": "BEP20",
+    "symbol": "SHIDO",
+    "decimals": 9,
+    "status": "active",
+    "id": "0x733Af324146DCfe743515D8D77DC25140a07F9e0",
+    "tags": [
+        "defi"
+    ],
+    "links": []
+}
