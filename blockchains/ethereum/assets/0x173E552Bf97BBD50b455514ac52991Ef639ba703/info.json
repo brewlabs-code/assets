@@ -1,0 +1,15 @@
+{
+    "name": "Shido Inu",
+    "website": "https://www.shido.finance/",
+    "description": "",
+    "explorer": "https://etherscan.io/token/0x173E552Bf97BBD50b455514ac52991Ef639ba703",
+    "type": "ERC20",
+    "symbol": "SHIDO",
+    "decimals": 9,
+    "status": "active",
+    "id": "0x173E552Bf97BBD50b455514ac52991Ef639ba703",
+    "tags": [
+        "Defi"
+    ],
+    "links": []
+}

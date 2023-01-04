@@ -1,7 +1,7 @@
 {
     "name": "Trust Wallet: Ethereum",
     "logoURI": "https://trustwallet.com/assets/images/favicon.png",
-    "timestamp": "2022-12-21T09:57:13.139698",
+    "timestamp": "2023-01-04T22:45:52.100606",
     "tokens": [
         {
             "asset": "c60_t0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
@@ -3439,10 +3439,19 @@
             "symbol": "FUNICULAR",
             "decimals": 18,
             "logoURI": "https://assets.trustwalletapp.com/blockchains/ethereum/assets/0x90A1Dd7f8dAD69FD1000A2d185D29BfddCe970F6/logo.png"
+        },
+        {
+            "asset": "c60_t0x173E552Bf97BBD50b455514ac52991Ef639ba703",
+            "type": "ERC20",
+            "address": "0x173E552Bf97BBD50b455514ac52991Ef639ba703",
+            "name": "Shido Inu",
+            "symbol": "SHIDO",
+            "decimals": 9,
+            "logoURI": "https://assets.trustwalletapp.com/blockchains/ethereum/assets/0x173E552Bf97BBD50b455514ac52991Ef639ba703/logo.png"
         }
     ],
     "version": {
-        "major": 51,
+        "major": 52,
         "minor": 0,
         "patch": 0
     }
