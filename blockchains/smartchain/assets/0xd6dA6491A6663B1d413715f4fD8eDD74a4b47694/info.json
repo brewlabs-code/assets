@@ -1,0 +1,15 @@
+{
+    "name": "The Landlord",
+    "description": "",
+    "website": "http://thelandlord.biz",
+    "explorer": "https://bscscan.com/token/0xd6dA6491A6663B1d413715f4fD8eDD74a4b47694",
+    "type": "BEP20",
+    "symbol": "LNDLRD",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xd6dA6491A6663B1d413715f4fD8eDD74a4b47694",
+    "tags": [
+        "defi"
+    ],
+    "links": []
+}
