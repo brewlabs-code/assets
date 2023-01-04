@@ -1,7 +1,7 @@
 {
     "name": "Trust Wallet: Polygon",
     "logoURI": "https://trustwallet.com/assets/images/favicon.png",
-    "timestamp": "2022-05-21T16:31:16.841156",
+    "timestamp": "2023-01-05T02:38:17.540687",
     "tokens": [
         {
             "asset": "c966_t0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619",
@@ -147,10 +147,19 @@
             "symbol": "MTBC",
             "decimals": 18,
             "logoURI": "https://assets.trustwalletapp.com/blockchains/polygon/assets/0xFC541ec44A41974d76FC0b2F526CAE781ffAbaED/logo.png"
+        },
+        {
+            "asset": "c966_t0x8Fd0195469b51a935dC3C48617ced6B400E38C9C",
+            "type": "POLYGON",
+            "address": "0x8Fd0195469b51a935dC3C48617ced6B400E38C9C",
+            "name": "Crypto 4 A Cause Fund",
+            "symbol": "C4C",
+            "decimals": 18,
+            "logoURI": "https://assets.trustwalletapp.com/blockchains/polygon/assets/0x8Fd0195469b51a935dC3C48617ced6B400E38C9C/logo.png"
         }
     ],
     "version": {
-        "major": 7,
+        "major": 8,
         "minor": 0,
         "patch": 0
     }
