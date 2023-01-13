@@ -1,0 +1,15 @@
+{
+    "name": "Slake",
+    "website": "https://slake.it/",
+    "description": "",
+    "explorer": "https://etherscan.io/token/0x9C2500CfD2f1De40255Cee5EC8AdA6466E1eddf1",
+    "type": "ERC20",
+    "symbol": "SLAKE",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x9C2500CfD2f1De40255Cee5EC8AdA6466E1eddf1",
+    "tags": [
+        "Defi"
+    ],
+    "links": []
+}

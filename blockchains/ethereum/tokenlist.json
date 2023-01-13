@@ -1,7 +1,7 @@
 {
     "name": "Trust Wallet: Ethereum",
     "logoURI": "https://trustwallet.com/assets/images/favicon.png",
-    "timestamp": "2023-01-04T22:45:52.100606",
+    "timestamp": "2023-01-13T11:34:24.198092",
     "tokens": [
         {
             "asset": "c60_t0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
@@ -3448,10 +3448,19 @@
             "symbol": "SHIDO",
             "decimals": 9,
             "logoURI": "https://assets.trustwalletapp.com/blockchains/ethereum/assets/0x173E552Bf97BBD50b455514ac52991Ef639ba703/logo.png"
+        },
+        {
+            "asset": "c60_t0x9C2500CfD2f1De40255Cee5EC8AdA6466E1eddf1",
+            "type": "ERC20",
+            "address": "0x9C2500CfD2f1De40255Cee5EC8AdA6466E1eddf1",
+            "name": "Slake",
+            "symbol": "SLAKE",
+            "decimals": 18,
+            "logoURI": "https://assets.trustwalletapp.com/blockchains/ethereum/assets/0x9C2500CfD2f1De40255Cee5EC8AdA6466E1eddf1/logo.png"
         }
     ],
     "version": {
-        "major": 52,
+        "major": 53,
         "minor": 0,
         "patch": 0
     }
