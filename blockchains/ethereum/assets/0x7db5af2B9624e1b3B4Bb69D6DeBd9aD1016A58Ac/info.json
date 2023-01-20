@@ -1,0 +1,15 @@
+{
+    "name": "Volt Inu",
+    "website": "https://voltinu.in/",
+    "description": "",
+    "explorer": "https://etherscan.io/token/0x7db5af2B9624e1b3B4Bb69D6DeBd9aD1016A58Ac",
+    "type": "ERC20",
+    "symbol": "VOLT",
+    "decimals": 9,
+    "status": "active",
+    "id": "0x7db5af2B9624e1b3B4Bb69D6DeBd9aD1016A58Ac",
+    "tags": [
+        "Defi"
+    ],
+    "links": []
+}
