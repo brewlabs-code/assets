@@ -1,0 +1,15 @@
+{
+    "name": "DAPPCASH",
+    "description": "",
+    "website": "https://altnotify.com",
+    "explorer": "https://bscscan.com/token/0x1eF68f4507374960cF186c8999aadADB86736Ca4",
+    "type": "BEP20",
+    "symbol": "DAPP",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x1eF68f4507374960cF186c8999aadADB86736Ca4",
+    "tags": [
+        "defi"
+    ],
+    "links": []
+}
