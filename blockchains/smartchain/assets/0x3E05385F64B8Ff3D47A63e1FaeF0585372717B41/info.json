@@ -1,0 +1,15 @@
+{
+    "name": "Revoltance",
+    "description": "",
+    "website": "https://revoltance.com",
+    "explorer": "https://bscscan.com/token/0x3E05385F64B8Ff3D47A63e1FaeF0585372717B41",
+    "type": "BEP20",
+    "symbol": "RVLT",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x3E05385F64B8Ff3D47A63e1FaeF0585372717B41",
+    "tags": [
+        "defi"
+    ],
+    "links": []
+}
