@@ -1,7 +1,7 @@
 {
     "name": "Trust Wallet: Smart Chain",
     "logoURI": "https://trustwallet.com/assets/images/favicon.png",
-    "timestamp": "2023-02-03T23:45:24.211581",
+    "timestamp": "2023-02-06T21:34:53.787173",
     "tokens": [
         {
             "asset": "c20000714_t0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
@@ -1255,10 +1255,19 @@
             "symbol": "RVLT",
             "decimals": 18,
             "logoURI": "https://assets.trustwalletapp.com/blockchains/smartchain/assets/0x3E05385F64B8Ff3D47A63e1FaeF0585372717B41/logo.png"
+        },
+        {
+            "asset": "c20000714_t0x158f40D656DE7A57B095CC01FB6bBFD17dC4faf9",
+            "type": "BEP20",
+            "address": "0x158f40D656DE7A57B095CC01FB6bBFD17dC4faf9",
+            "name": "Y5 Crypto",
+            "symbol": "Y5",
+            "decimals": 9,
+            "logoURI": "https://assets.trustwalletapp.com/blockchains/smartchain/assets/0x158f40D656DE7A57B095CC01FB6bBFD17dC4faf9/logo.png"
         }
     ],
     "version": {
-        "major": 69,
+        "major": 70,
         "minor": 0,
         "patch": 0
     }

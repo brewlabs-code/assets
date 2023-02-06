@@ -1,0 +1,15 @@
+{
+    "name": "Y5 Crypto",
+    "description": "",
+    "website": "https://y5crypto.com",
+    "explorer": "https://bscscan.com/token/0x158f40D656DE7A57B095CC01FB6bBFD17dC4faf9",
+    "type": "BEP20",
+    "symbol": "Y5",
+    "decimals": 9,
+    "status": "active",
+    "id": "0x158f40D656DE7A57B095CC01FB6bBFD17dC4faf9",
+    "tags": [
+        "defi"
+    ],
+    "links": []
+}
