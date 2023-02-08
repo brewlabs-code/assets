@@ -1,0 +1,15 @@
+{
+    "name": "LUCRO",
+    "description": "",
+    "website": "https://evergrowegc.com/lucrolaunch",
+    "explorer": "https://bscscan.com/token/0x988F7c894e4001EEB7B570CDE80dffE21CF7B6B9",
+    "type": "BEP20",
+    "symbol": "LCR",
+    "decimals": 9,
+    "status": "active",
+    "id": "0x988F7c894e4001EEB7B570CDE80dffE21CF7B6B9",
+    "tags": [
+        "defi"
+    ],
+    "links": []
+}

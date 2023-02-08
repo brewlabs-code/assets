@@ -1,7 +1,7 @@
 {
     "name": "Trust Wallet: Smart Chain",
     "logoURI": "https://trustwallet.com/assets/images/favicon.png",
-    "timestamp": "2023-02-06T21:34:53.787173",
+    "timestamp": "2023-02-09T01:08:53.506701",
     "tokens": [
         {
             "asset": "c20000714_t0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
@@ -1264,10 +1264,19 @@
             "symbol": "Y5",
             "decimals": 9,
             "logoURI": "https://assets.trustwalletapp.com/blockchains/smartchain/assets/0x158f40D656DE7A57B095CC01FB6bBFD17dC4faf9/logo.png"
+        },
+        {
+            "asset": "c20000714_t0x988F7c894e4001EEB7B570CDE80dffE21CF7B6B9",
+            "type": "BEP20",
+            "address": "0x988F7c894e4001EEB7B570CDE80dffE21CF7B6B9",
+            "name": "LUCRO",
+            "symbol": "LCR",
+            "decimals": 9,
+            "logoURI": "https://assets.trustwalletapp.com/blockchains/smartchain/assets/0x988F7c894e4001EEB7B570CDE80dffE21CF7B6B9/logo.png"
         }
     ],
     "version": {
-        "major": 70,
+        "major": 71,
         "minor": 0,
         "patch": 0
     }
