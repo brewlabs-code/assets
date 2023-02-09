@@ -1,7 +1,7 @@
 {
     "name": "Trust Wallet: Ethereum",
     "logoURI": "https://trustwallet.com/assets/images/favicon.png",
-    "timestamp": "2023-01-20T23:39:35.041649",
+    "timestamp": "2023-02-09T09:32:05.623878",
     "tokens": [
         {
             "asset": "c60_t0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
@@ -3466,10 +3466,19 @@
             "symbol": "VOLT",
             "decimals": 9,
             "logoURI": "https://assets.trustwalletapp.com/blockchains/ethereum/assets/0x7db5af2B9624e1b3B4Bb69D6DeBd9aD1016A58Ac/logo.png"
+        },
+        {
+            "asset": "c60_t0x1ae378cC5d38350Ec90cE9bcf827a544cB2BBA75",
+            "type": "ERC20",
+            "address": "0x1ae378cC5d38350Ec90cE9bcf827a544cB2BBA75",
+            "name": "Kingdom",
+            "symbol": "KNDM",
+            "decimals": 18,
+            "logoURI": "https://assets.trustwalletapp.com/blockchains/ethereum/assets/0x1ae378cC5d38350Ec90cE9bcf827a544cB2BBA75/logo.png"
         }
     ],
     "version": {
-        "major": 54,
+        "major": 55,
         "minor": 0,
         "patch": 0
     }

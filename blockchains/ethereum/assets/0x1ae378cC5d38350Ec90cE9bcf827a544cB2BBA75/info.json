@@ -1,0 +1,15 @@
+{
+    "name": "Kingdom",
+    "website": "https://www.kingdometh.com/",
+    "description": "",
+    "explorer": "https://etherscan.io/token/0x1ae378cC5d38350Ec90cE9bcf827a544cB2BBA75",
+    "type": "ERC20",
+    "symbol": "KNDM",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x1ae378cC5d38350Ec90cE9bcf827a544cB2BBA75",
+    "tags": [
+        "Defi"
+    ],
+    "links": []
+}
