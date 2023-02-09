@@ -3387,13 +3387,13 @@
             "logoURI": "https://assets.trustwalletapp.com/blockchains/ethereum/assets/0x10f44a834097469AC340592d28c479c442E99bFe/logo.png"
         },
         {
-            "asset": "c60_t0xAfbB5DafaceA3cFe1001357449e2ea268e50F368",
+            "asset": "c60_t0x2090119735011cEFde9a8c9794A08c0d99B1F897",
             "type": "ERC20",
-            "address": "0xAfbB5DafaceA3cFe1001357449e2ea268e50F368",
+            "address": "0x2090119735011cEFde9a8c9794A08c0d99B1F897",
             "name": "Grow Crop Corp",
             "symbol": "GCC",
             "decimals": 18,
-            "logoURI": "https://assets.trustwalletapp.com/blockchains/ethereum/assets/0xAfbB5DafaceA3cFe1001357449e2ea268e50F368/logo.png"
+            "logoURI": "https://assets.trustwalletapp.com/blockchains/ethereum/assets/0x2090119735011cEFde9a8c9794A08c0d99B1F897/logo.png"
         },
         {
             "asset": "c60_t0xe8616218e54fc97941369622CcB968dae2BcC94D",

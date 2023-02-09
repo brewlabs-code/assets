@@ -1,12 +1,12 @@
 {
     "name": "Grow Crop Corp",
     "description": "",
-    "explorer": "https://etherscan.io/token/0xAfbB5DafaceA3cFe1001357449e2ea268e50F368",
+    "explorer": "https://etherscan.io/token/0x2090119735011cEFde9a8c9794A08c0d99B1F897",
     "type": "ERC20",
     "symbol": "GCC",
     "decimals": 18,
     "status": "active",
-    "id": "0xAfbB5DafaceA3cFe1001357449e2ea268e50F368",
+    "id": "0x2090119735011cEFde9a8c9794A08c0d99B1F897",
     "tags": [
         "Defi"
     ],
