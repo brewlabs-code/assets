@@ -1,0 +1,15 @@
+{
+    "name": "Alcazar",
+    "description": "",
+    "website": "https://alcazartoken.io",
+    "explorer": "https://bscscan.com/token/0x353D0d1b4Feb416FAaAbD5B314D99ef148D56dFF",
+    "type": "BEP20",
+    "symbol": "ALCAZAR",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x353D0d1b4Feb416FAaAbD5B314D99ef148D56dFF",
+    "tags": [
+        "defi"
+    ],
+    "links": []
+}
