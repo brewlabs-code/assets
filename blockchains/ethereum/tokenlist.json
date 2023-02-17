@@ -1,7 +1,7 @@
 {
     "name": "Trust Wallet: Ethereum",
     "logoURI": "https://trustwallet.com/assets/images/favicon.png",
-    "timestamp": "2023-02-09T09:32:05.623878",
+    "timestamp": "2023-02-17T12:16:20.311098",
     "tokens": [
         {
             "asset": "c60_t0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
@@ -3475,10 +3475,19 @@
             "symbol": "KNDM",
             "decimals": 18,
             "logoURI": "https://assets.trustwalletapp.com/blockchains/ethereum/assets/0x1ae378cC5d38350Ec90cE9bcf827a544cB2BBA75/logo.png"
+        },
+        {
+            "asset": "c60_t0x186785D4cba7263532F1da9bBeC3Da612dd6D085",
+            "type": "ERC20",
+            "address": "0x186785D4cba7263532F1da9bBeC3Da612dd6D085",
+            "name": "Bacon Token",
+            "symbol": "BACON",
+            "decimals": 18,
+            "logoURI": "https://assets.trustwalletapp.com/blockchains/ethereum/assets/0x186785D4cba7263532F1da9bBeC3Da612dd6D085/logo.png"
         }
     ],
     "version": {
-        "major": 55,
+        "major": 56,
         "minor": 0,
         "patch": 0
     }

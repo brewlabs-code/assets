@@ -1,0 +1,14 @@
+{
+    "name": "Bacon Token",
+    "description": "",
+    "explorer": "https://etherscan.io/token/0x186785D4cba7263532F1da9bBeC3Da612dd6D085",
+    "type": "ERC20",
+    "symbol": "BACON",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x186785D4cba7263532F1da9bBeC3Da612dd6D085",
+    "tags": [
+        "Defi"
+    ],
+    "links": []
+}
