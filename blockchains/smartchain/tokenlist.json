@@ -1,7 +1,7 @@
 {
     "name": "Trust Wallet: Smart Chain",
     "logoURI": "https://trustwallet.com/assets/images/favicon.png",
-    "timestamp": "2023-02-09T08:57:24.078535",
+    "timestamp": "2023-02-21T17:23:57.799258",
     "tokens": [
         {
             "asset": "c20000714_t0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
@@ -1282,10 +1282,19 @@
             "symbol": "ALCAZAR",
             "decimals": 18,
             "logoURI": "https://assets.trustwalletapp.com/blockchains/smartchain/assets/0x353D0d1b4Feb416FAaAbD5B314D99ef148D56dFF/logo.png"
+        },
+        {
+            "asset": "c20000714_t0x4aeB2D0B318e5e8ac62D5A39EB3495974951f477",
+            "type": "BEP20",
+            "address": "0x4aeB2D0B318e5e8ac62D5A39EB3495974951f477",
+            "name": "Dark Tavern Token",
+            "symbol": "DTT",
+            "decimals": 18,
+            "logoURI": "https://assets.trustwalletapp.com/blockchains/smartchain/assets/0x4aeB2D0B318e5e8ac62D5A39EB3495974951f477/logo.png"
         }
     ],
     "version": {
-        "major": 72,
+        "major": 73,
         "minor": 0,
         "patch": 0
     }

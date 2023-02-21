@@ -1,0 +1,15 @@
+{
+    "name": "Dark Tavern Token",
+    "description": "",
+    "website": "https://darktavern.online",
+    "explorer": "https://bscscan.com/token/0x4aeB2D0B318e5e8ac62D5A39EB3495974951f477",
+    "type": "BEP20",
+    "symbol": "DTT",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x4aeB2D0B318e5e8ac62D5A39EB3495974951f477",
+    "tags": [
+        "defi"
+    ],
+    "links": []
+}
