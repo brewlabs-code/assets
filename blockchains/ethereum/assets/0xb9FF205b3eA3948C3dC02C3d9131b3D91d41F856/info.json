@@ -1,0 +1,14 @@
+{
+    "name": "ReVeR",
+    "description": "",
+    "explorer": "https://etherscan.io/token/0xb9FF205b3eA3948C3dC02C3d9131b3D91d41F856",
+    "type": "ERC20",
+    "symbol": "RVR",
+    "decimals": 9,
+    "status": "active",
+    "id": "0xb9FF205b3eA3948C3dC02C3d9131b3D91d41F856",
+    "tags": [
+        "Defi"
+    ],
+    "links": []
+}
