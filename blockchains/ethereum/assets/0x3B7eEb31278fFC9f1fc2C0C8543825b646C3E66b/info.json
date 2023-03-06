@@ -1,0 +1,15 @@
+{
+    "name": "Balloon Protocol",
+    "website": "https://balloon-protocol.info",
+    "description": "",
+    "explorer": "https://etherscan.io/token/0x3B7eEb31278fFC9f1fc2C0C8543825b646C3E66b",
+    "type": "ERC20",
+    "symbol": "AIR",
+    "decimals": 9,
+    "status": "active",
+    "id": "0x3B7eEb31278fFC9f1fc2C0C8543825b646C3E66b",
+    "tags": [
+        "Defi"
+    ],
+    "links": []
+}
