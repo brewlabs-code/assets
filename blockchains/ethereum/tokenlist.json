@@ -3500,7 +3500,7 @@
             "address": "0x3B7eEb31278fFC9f1fc2C0C8543825b646C3E66b",
             "name": "Balloon Protocol",
             "symbol": "AIR",
-            "decimals": 9,
+            "decimals": 18,
             "logoURI": "https://assets.trustwalletapp.com/blockchains/ethereum/assets/0x3B7eEb31278fFC9f1fc2C0C8543825b646C3E66b/logo.png"
         }
     ],
