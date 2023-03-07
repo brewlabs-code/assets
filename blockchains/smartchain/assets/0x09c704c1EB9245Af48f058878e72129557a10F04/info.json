@@ -1,0 +1,15 @@
+{
+    "name": "Sweeptoken",
+    "description": "",
+    "website": "https://sweepproject.com",
+    "explorer": "https://bscscan.com/token/0x09c704c1EB9245Af48f058878e72129557a10F04",
+    "type": "BEP20",
+    "symbol": "SWEEP",
+    "decimals": 9,
+    "status": "active",
+    "id": "0x09c704c1EB9245Af48f058878e72129557a10F04",
+    "tags": [
+        "defi"
+    ],
+    "links": []
+}

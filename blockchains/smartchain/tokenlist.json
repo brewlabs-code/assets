@@ -1,7 +1,7 @@
 {
     "name": "Trust Wallet: Smart Chain",
     "logoURI": "https://trustwallet.com/assets/images/favicon.png",
-    "timestamp": "2023-03-03T10:41:47.113488",
+    "timestamp": "2023-03-07T18:31:42.281466",
     "tokens": [
         {
             "asset": "c20000714_t0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
@@ -1300,10 +1300,19 @@
             "symbol": "BVST",
             "decimals": 18,
             "logoURI": "https://assets.trustwalletapp.com/blockchains/smartchain/assets/0x592032513b329a0956b3f14d661119880F2361a6/logo.png"
+        },
+        {
+            "asset": "c20000714_t0x09c704c1EB9245Af48f058878e72129557a10F04",
+            "type": "BEP20",
+            "address": "0x09c704c1EB9245Af48f058878e72129557a10F04",
+            "name": "Sweeptoken",
+            "symbol": "SWEEP",
+            "decimals": 9,
+            "logoURI": "https://assets.trustwalletapp.com/blockchains/smartchain/assets/0x09c704c1EB9245Af48f058878e72129557a10F04/logo.png"
         }
     ],
     "version": {
-        "major": 74,
+        "major": 75,
         "minor": 0,
         "patch": 0
     }
