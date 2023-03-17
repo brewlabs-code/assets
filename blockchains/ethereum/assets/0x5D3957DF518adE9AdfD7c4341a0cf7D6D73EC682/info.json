@@ -1,0 +1,14 @@
+{
+    "name": "R33LZ",
+    "description": "",
+    "explorer": "https://etherscan.io/token/0x5D3957DF518adE9AdfD7c4341a0cf7D6D73EC682",
+    "type": "ERC20",
+    "symbol": "R33LZ",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x5D3957DF518adE9AdfD7c4341a0cf7D6D73EC682",
+    "tags": [
+        "Defi"
+    ],
+    "links": []
+}

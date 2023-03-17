@@ -1,7 +1,7 @@
 {
     "name": "Trust Wallet: Ethereum",
     "logoURI": "https://trustwallet.com/assets/images/favicon.png",
-    "timestamp": "2023-03-10T21:30:01.722901",
+    "timestamp": "2023-03-17T17:12:47.446181",
     "tokens": [
         {
             "asset": "c60_t0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
@@ -3511,10 +3511,19 @@
             "symbol": "XUA2",
             "decimals": 18,
             "logoURI": "https://assets.trustwalletapp.com/blockchains/ethereum/assets/0xB3C28F8b7929497285D07a8f48ff466A7d4C782F/logo.png"
+        },
+        {
+            "asset": "c60_t0x5D3957DF518adE9AdfD7c4341a0cf7D6D73EC682",
+            "type": "ERC20",
+            "address": "0x5D3957DF518adE9AdfD7c4341a0cf7D6D73EC682",
+            "name": "R33LZ",
+            "symbol": "R33LZ",
+            "decimals": 18,
+            "logoURI": "https://assets.trustwalletapp.com/blockchains/ethereum/assets/0x5D3957DF518adE9AdfD7c4341a0cf7D6D73EC682/logo.png"
         }
     ],
     "version": {
-        "major": 59,
+        "major": 60,
         "minor": 0,
         "patch": 0
     }
