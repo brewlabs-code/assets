@@ -1,7 +1,7 @@
 {
     "name": "Trust Wallet: Ethereum",
     "logoURI": "https://trustwallet.com/assets/images/favicon.png",
-    "timestamp": "2023-03-17T17:12:47.446181",
+    "timestamp": "2023-03-21T09:59:56.938645",
     "tokens": [
         {
             "asset": "c60_t0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
@@ -3520,10 +3520,19 @@
             "symbol": "R33LZ",
             "decimals": 18,
             "logoURI": "https://assets.trustwalletapp.com/blockchains/ethereum/assets/0x5D3957DF518adE9AdfD7c4341a0cf7D6D73EC682/logo.png"
+        },
+        {
+            "asset": "c60_t0xb8b4b66852275355d591B90E5B75f84cAeffF392",
+            "type": "ERC20",
+            "address": "0xb8b4b66852275355d591B90E5B75f84cAeffF392",
+            "name": "ReVeR",
+            "symbol": "RVR",
+            "decimals": 9,
+            "logoURI": "https://assets.trustwalletapp.com/blockchains/ethereum/assets/0xb8b4b66852275355d591B90E5B75f84cAeffF392/logo.png"
         }
     ],
     "version": {
-        "major": 60,
+        "major": 61,
         "minor": 0,
         "patch": 0
     }
