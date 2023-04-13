@@ -1,7 +1,7 @@
 {
     "name": "Trust Wallet: Smart Chain",
     "logoURI": "https://trustwallet.com/assets/images/favicon.png",
-    "timestamp": "2023-03-07T18:31:42.281466",
+    "timestamp": "2023-04-13T10:39:24.586054",
     "tokens": [
         {
             "asset": "c20000714_t0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
@@ -1309,10 +1309,19 @@
             "symbol": "SWEEP",
             "decimals": 9,
             "logoURI": "https://assets.trustwalletapp.com/blockchains/smartchain/assets/0x09c704c1EB9245Af48f058878e72129557a10F04/logo.png"
+        },
+        {
+            "asset": "c20000714_t0xAD6742A35fB341A9Cc6ad674738Dd8da98b94Fb1",
+            "type": "BEP20",
+            "address": "0xAD6742A35fB341A9Cc6ad674738Dd8da98b94Fb1",
+            "name": "Wombat Token",
+            "symbol": "WOM",
+            "decimals": 18,
+            "logoURI": "https://assets.trustwalletapp.com/blockchains/smartchain/assets/0xAD6742A35fB341A9Cc6ad674738Dd8da98b94Fb1/logo.png"
         }
     ],
     "version": {
-        "major": 75,
+        "major": 76,
         "minor": 0,
         "patch": 0
     }
