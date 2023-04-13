@@ -1,7 +1,7 @@
 {
     "name": "Trust Wallet: Polygon",
     "logoURI": "https://trustwallet.com/assets/images/favicon.png",
-    "timestamp": "2023-01-05T02:38:17.540687",
+    "timestamp": "2023-04-13T16:56:03.741659",
     "tokens": [
         {
             "asset": "c966_t0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619",
@@ -156,10 +156,19 @@
             "symbol": "C4C",
             "decimals": 18,
             "logoURI": "https://assets.trustwalletapp.com/blockchains/polygon/assets/0x8Fd0195469b51a935dC3C48617ced6B400E38C9C/logo.png"
+        },
+        {
+            "asset": "c966_t0xDFc2C4ce66561c3ee53dbeA9ff78550F395a25e2",
+            "type": "POLYGON",
+            "address": "0xDFc2C4ce66561c3ee53dbeA9ff78550F395a25e2",
+            "name": "Aidi Finance",
+            "symbol": "AIDI",
+            "decimals": 18,
+            "logoURI": "https://assets.trustwalletapp.com/blockchains/polygon/assets/0xDFc2C4ce66561c3ee53dbeA9ff78550F395a25e2/logo.png"
         }
     ],
     "version": {
-        "major": 8,
+        "major": 9,
         "minor": 0,
         "patch": 0
     }
