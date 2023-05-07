@@ -1,7 +1,7 @@
 {
     "name": "Trust Wallet: Smart Chain",
     "logoURI": "https://trustwallet.com/assets/images/favicon.png",
-    "timestamp": "2023-04-13T10:39:24.586054",
+    "timestamp": "2023-05-07T23:53:09.627011",
     "tokens": [
         {
             "asset": "c20000714_t0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
@@ -1318,10 +1318,19 @@
             "symbol": "WOM",
             "decimals": 18,
             "logoURI": "https://assets.trustwalletapp.com/blockchains/smartchain/assets/0xAD6742A35fB341A9Cc6ad674738Dd8da98b94Fb1/logo.png"
+        },
+        {
+            "asset": "c20000714_t0xB15488af39bD1de209D501672a293Bcd05f82Ab4",
+            "type": "BEP20",
+            "address": "0xB15488af39bD1de209D501672a293Bcd05f82Ab4",
+            "name": "NanoMatic",
+            "symbol": "NANO",
+            "decimals": 18,
+            "logoURI": "https://assets.trustwalletapp.com/blockchains/smartchain/assets/0xB15488af39bD1de209D501672a293Bcd05f82Ab4/logo.png"
         }
     ],
     "version": {
-        "major": 76,
+        "major": 77,
         "minor": 0,
         "patch": 0
     }

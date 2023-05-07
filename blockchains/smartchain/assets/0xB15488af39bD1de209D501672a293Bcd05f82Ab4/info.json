@@ -1,0 +1,15 @@
+{
+    "name": "NanoMatic",
+    "description": "",
+    "website": "https://www.nanomatic.io",
+    "explorer": "https://bscscan.com/token/0xB15488af39bD1de209D501672a293Bcd05f82Ab4",
+    "type": "BEP20",
+    "symbol": "NANO",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xB15488af39bD1de209D501672a293Bcd05f82Ab4",
+    "tags": [
+        "defi"
+    ],
+    "links": []
+}
