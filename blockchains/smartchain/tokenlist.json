@@ -1,7 +1,7 @@
 {
     "name": "Trust Wallet: Smart Chain",
     "logoURI": "https://trustwallet.com/assets/images/favicon.png",
-    "timestamp": "2023-05-07T23:53:09.627011",
+    "timestamp": "2023-05-16T09:56:45.343703",
     "tokens": [
         {
             "asset": "c20000714_t0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
@@ -1327,10 +1327,19 @@
             "symbol": "NANO",
             "decimals": 18,
             "logoURI": "https://assets.trustwalletapp.com/blockchains/smartchain/assets/0xB15488af39bD1de209D501672a293Bcd05f82Ab4/logo.png"
+        },
+        {
+            "asset": "c20000714_t0xd4bC850c0B3cDcb2417cfD77fAABEa1f47F09fd8",
+            "type": "BEP20",
+            "address": "0xd4bC850c0B3cDcb2417cfD77fAABEa1f47F09fd8",
+            "name": "MetaSetGO",
+            "symbol": "MSGO",
+            "decimals": 9,
+            "logoURI": "https://assets.trustwalletapp.com/blockchains/smartchain/assets/0xd4bC850c0B3cDcb2417cfD77fAABEa1f47F09fd8/logo.png"
         }
     ],
     "version": {
-        "major": 77,
+        "major": 78,
         "minor": 0,
         "patch": 0
     }
