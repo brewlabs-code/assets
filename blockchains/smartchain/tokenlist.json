@@ -1,7 +1,7 @@
 {
     "name": "Trust Wallet: Smart Chain",
     "logoURI": "https://trustwallet.com/assets/images/favicon.png",
-    "timestamp": "2023-05-16T09:56:45.343703",
+    "timestamp": "2023-05-25T09:46:48.725661",
     "tokens": [
         {
             "asset": "c20000714_t0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
@@ -1336,10 +1336,19 @@
             "symbol": "MSGO",
             "decimals": 9,
             "logoURI": "https://assets.trustwalletapp.com/blockchains/smartchain/assets/0xd4bC850c0B3cDcb2417cfD77fAABEa1f47F09fd8/logo.png"
+        },
+        {
+            "asset": "c20000714_t0x8466BB37bde898E0820E0d9CFe2EB68fbB90cE9b",
+            "type": "BEP20",
+            "address": "0x8466BB37bde898E0820E0d9CFe2EB68fbB90cE9b",
+            "name": "WPT Investing Corp",
+            "symbol": "WPT",
+            "decimals": 18,
+            "logoURI": "https://assets.trustwalletapp.com/blockchains/smartchain/assets/0x8466BB37bde898E0820E0d9CFe2EB68fbB90cE9b/logo.png"
         }
     ],
     "version": {
-        "major": 78,
+        "major": 79,
         "minor": 0,
         "patch": 0
     }

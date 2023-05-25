@@ -1,0 +1,15 @@
+{
+    "name": "WPT Investing Corp",
+    "description": "",
+    "website": "https://www.warpigs.io",
+    "explorer": "https://bscscan.com/token/0x8466BB37bde898E0820E0d9CFe2EB68fbB90cE9b",
+    "type": "BEP20",
+    "symbol": "WPT",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x8466BB37bde898E0820E0d9CFe2EB68fbB90cE9b",
+    "tags": [
+        "defi"
+    ],
+    "links": []
+}
