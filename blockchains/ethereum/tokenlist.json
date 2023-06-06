@@ -1,7 +1,7 @@
 {
     "name": "Trust Wallet: Ethereum",
     "logoURI": "https://trustwallet.com/assets/images/favicon.png",
-    "timestamp": "2023-06-07T01:20:57.886492",
+    "timestamp": "2023-06-07T01:29:42.043183",
     "tokens": [
         {
             "asset": "c60_t0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
@@ -3547,10 +3547,19 @@
             "symbol": "xBBPP",
             "decimals": 18,
             "logoURI": "https://assets.trustwalletapp.com/blockchains/ethereum/assets/0xe9fdB522F1b6623BB29cf1d70C4728A7e55c5634/logo.png"
+        },
+        {
+            "asset": "c60_t0x6982508145454Ce325dDbE47a25d4ec3d2311933",
+            "type": "ERC20",
+            "address": "0x6982508145454Ce325dDbE47a25d4ec3d2311933",
+            "name": "xBBPP",
+            "symbol": "xBBPP",
+            "decimals": 18,
+            "logoURI": "https://assets.trustwalletapp.com/blockchains/ethereum/assets/0x6982508145454Ce325dDbE47a25d4ec3d2311933/logo.png"
         }
     ],
     "version": {
-        "major": 63,
+        "major": 64,
         "minor": 0,
         "patch": 0
     }
