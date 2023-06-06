@@ -1,7 +1,7 @@
 {
     "name": "Trust Wallet: Ethereum",
     "logoURI": "https://trustwallet.com/assets/images/favicon.png",
-    "timestamp": "2023-03-21T09:59:56.938645",
+    "timestamp": "2023-06-07T01:20:57.886492",
     "tokens": [
         {
             "asset": "c60_t0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
@@ -3529,10 +3529,28 @@
             "symbol": "RVR",
             "decimals": 9,
             "logoURI": "https://assets.trustwalletapp.com/blockchains/ethereum/assets/0xb8b4b66852275355d591B90E5B75f84cAeffF392/logo.png"
+        },
+        {
+            "asset": "c60_t0x5dD0F5dA07E9C63F2d216179311EF8cB68ABb629",
+            "type": "ERC20",
+            "address": "0x5dD0F5dA07E9C63F2d216179311EF8cB68ABb629",
+            "name": "Baby Pepe",
+            "symbol": "BBPP",
+            "decimals": 18,
+            "logoURI": "https://assets.trustwalletapp.com/blockchains/ethereum/assets/0x5dD0F5dA07E9C63F2d216179311EF8cB68ABb629/logo.png"
+        },
+        {
+            "asset": "c60_t0xe9fdB522F1b6623BB29cf1d70C4728A7e55c5634",
+            "type": "ERC20",
+            "address": "0xe9fdB522F1b6623BB29cf1d70C4728A7e55c5634",
+            "name": "xBBPP",
+            "symbol": "xBBPP",
+            "decimals": 18,
+            "logoURI": "https://assets.trustwalletapp.com/blockchains/ethereum/assets/0xe9fdB522F1b6623BB29cf1d70C4728A7e55c5634/logo.png"
         }
     ],
     "version": {
-        "major": 61,
+        "major": 63,
         "minor": 0,
         "patch": 0
     }

@@ -1,0 +1,15 @@
+{
+    "name": "xBBPP",
+    "website": "https://www.babypepetoken.com",
+    "description": "",
+    "explorer": "https://etherscan.io/token/0xe9fdB522F1b6623BB29cf1d70C4728A7e55c5634",
+    "type": "ERC20",
+    "symbol": "xBBPP",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xe9fdB522F1b6623BB29cf1d70C4728A7e55c5634",
+    "tags": [
+        "Defi"
+    ],
+    "links": []
+}

@@ -1,0 +1,15 @@
+{
+    "name": "Baby Pepe",
+    "website": "https://www.babypepetoken.com",
+    "description": "",
+    "explorer": "https://etherscan.io/token/0x5dD0F5dA07E9C63F2d216179311EF8cB68ABb629",
+    "type": "ERC20",
+    "symbol": "BBPP",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x5dD0F5dA07E9C63F2d216179311EF8cB68ABb629",
+    "tags": [
+        "Defi"
+    ],
+    "links": []
+}
