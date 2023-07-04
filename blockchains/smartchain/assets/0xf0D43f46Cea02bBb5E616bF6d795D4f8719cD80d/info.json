@@ -1,0 +1,15 @@
+{
+    "name": "Zeleboba",
+    "description": "",
+    "website": "https://zeleboba.online",
+    "explorer": "https://bscscan.com/token/0xf0D43f46Cea02bBb5E616bF6d795D4f8719cD80d",
+    "type": "BEP20",
+    "symbol": "ZELEBOBA",
+    "decimals": 9,
+    "status": "active",
+    "id": "0xf0D43f46Cea02bBb5E616bF6d795D4f8719cD80d",
+    "tags": [
+        "defi"
+    ],
+    "links": []
+}

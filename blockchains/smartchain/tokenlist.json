@@ -1,7 +1,7 @@
 {
     "name": "Trust Wallet: Smart Chain",
     "logoURI": "https://trustwallet.com/assets/images/favicon.png",
-    "timestamp": "2023-05-25T09:46:48.725661",
+    "timestamp": "2023-07-04T20:29:09.328661",
     "tokens": [
         {
             "asset": "c20000714_t0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
@@ -1345,10 +1345,19 @@
             "symbol": "WPT",
             "decimals": 18,
             "logoURI": "https://assets.trustwalletapp.com/blockchains/smartchain/assets/0x8466BB37bde898E0820E0d9CFe2EB68fbB90cE9b/logo.png"
+        },
+        {
+            "asset": "c20000714_t0xf0D43f46Cea02bBb5E616bF6d795D4f8719cD80d",
+            "type": "BEP20",
+            "address": "0xf0D43f46Cea02bBb5E616bF6d795D4f8719cD80d",
+            "name": "Zeleboba",
+            "symbol": "ZELEBOBA",
+            "decimals": 9,
+            "logoURI": "https://assets.trustwalletapp.com/blockchains/smartchain/assets/0xf0D43f46Cea02bBb5E616bF6d795D4f8719cD80d/logo.png"
         }
     ],
     "version": {
-        "major": 79,
+        "major": 80,
         "minor": 0,
         "patch": 0
     }
