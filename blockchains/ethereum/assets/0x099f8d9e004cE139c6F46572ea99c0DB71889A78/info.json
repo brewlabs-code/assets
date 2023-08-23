@@ -1,0 +1,14 @@
+{
+    "name": "UNICHAD",
+    "description": "",
+    "explorer": "https://etherscan.io/token/0x099f8d9e004cE139c6F46572ea99c0DB71889A78",
+    "type": "ERC20",
+    "symbol": "UNICHAD",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x099f8d9e004cE139c6F46572ea99c0DB71889A78",
+    "tags": [
+        "Defi"
+    ],
+    "links": []
+}

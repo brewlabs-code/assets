@@ -1,7 +1,7 @@
 {
     "name": "Trust Wallet: Ethereum",
     "logoURI": "https://trustwallet.com/assets/images/favicon.png",
-    "timestamp": "2023-06-07T01:29:42.043183",
+    "timestamp": "2023-08-23T10:07:15.682926",
     "tokens": [
         {
             "asset": "c60_t0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
@@ -3556,10 +3556,19 @@
             "symbol": "xBBPP",
             "decimals": 18,
             "logoURI": "https://assets.trustwalletapp.com/blockchains/ethereum/assets/0x6982508145454Ce325dDbE47a25d4ec3d2311933/logo.png"
+        },
+        {
+            "asset": "c60_t0x099f8d9e004cE139c6F46572ea99c0DB71889A78",
+            "type": "ERC20",
+            "address": "0x099f8d9e004cE139c6F46572ea99c0DB71889A78",
+            "name": "UNICHAD",
+            "symbol": "UNICHAD",
+            "decimals": 18,
+            "logoURI": "https://assets.trustwalletapp.com/blockchains/ethereum/assets/0x099f8d9e004cE139c6F46572ea99c0DB71889A78/logo.png"
         }
     ],
     "version": {
-        "major": 64,
+        "major": 65,
         "minor": 0,
         "patch": 0
     }
