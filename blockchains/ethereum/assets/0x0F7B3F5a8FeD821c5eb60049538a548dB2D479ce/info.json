@@ -1,0 +1,15 @@
+{
+    "name": "AirTor Protocol",
+    "website": "https://ator.io/",
+    "description": "",
+    "explorer": "https://etherscan.io/token/0x0F7B3F5a8FeD821c5eb60049538a548dB2D479ce",
+    "type": "ERC20",
+    "symbol": "ATOR",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x0F7B3F5a8FeD821c5eb60049538a548dB2D479ce",
+    "tags": [
+        "Defi"
+    ],
+    "links": []
+}

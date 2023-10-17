@@ -1,7 +1,7 @@
 {
     "name": "Trust Wallet: Ethereum",
     "logoURI": "https://trustwallet.com/assets/images/favicon.png",
-    "timestamp": "2023-08-23T10:07:15.682926",
+    "timestamp": "2023-10-17T10:02:41.876256",
     "tokens": [
         {
             "asset": "c60_t0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
@@ -3565,10 +3565,19 @@
             "symbol": "UNICHAD",
             "decimals": 18,
             "logoURI": "https://assets.trustwalletapp.com/blockchains/ethereum/assets/0x099f8d9e004cE139c6F46572ea99c0DB71889A78/logo.png"
+        },
+        {
+            "asset": "c60_t0x0F7B3F5a8FeD821c5eb60049538a548dB2D479ce",
+            "type": "ERC20",
+            "address": "0x0F7B3F5a8FeD821c5eb60049538a548dB2D479ce",
+            "name": "AirTor Protocol",
+            "symbol": "ATOR",
+            "decimals": 18,
+            "logoURI": "https://assets.trustwalletapp.com/blockchains/ethereum/assets/0x0F7B3F5a8FeD821c5eb60049538a548dB2D479ce/logo.png"
         }
     ],
     "version": {
-        "major": 65,
+        "major": 66,
         "minor": 0,
         "patch": 0
     }
