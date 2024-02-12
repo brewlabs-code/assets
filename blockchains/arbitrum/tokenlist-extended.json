@@ -47,10 +47,19 @@
             "symbol": "DAI",
             "decimals": 18,
             "logoURI": "https://assets.trustwalletapp.com/blockchains/arbitrum/assets/0xda10009cbd5d07dd0cecc66161fc93d7c9000da1/logo.png"
+        },
+        {
+            "asset": "c10042221_t0xCbD34BE8b8deB2fB6f5CC5bc14a37c2398Db5320",
+            "type": "ARBITRUM",
+            "address": "0xCbD34BE8b8deB2fB6f5CC5bc14a37c2398Db5320",
+            "name": "Funicular Token",
+            "symbol": "FUNICULAR",
+            "decimals": 18,
+            "logoURI": "https://assets.trustwalletapp.com/blockchains/arbitrum/assets/0xCbD34BE8b8deB2fB6f5CC5bc14a37c2398Db5320/logo.png"
         }
     ],
     "version": {
-        "major": 6,
+        "major": 7,
         "minor": 0,
         "patch": 0
     }

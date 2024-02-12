@@ -1,0 +1,14 @@
+{
+    "name": "Funicular Token",
+    "description": "",
+    "explorer": "https://arbiscan.io/token/0xCbD34BE8b8deB2fB6f5CC5bc14a37c2398Db5320",
+    "type": "ERC20",
+    "symbol": "FUNICULAR",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xCbD34BE8b8deB2fB6f5CC5bc14a37c2398Db5320",
+    "tags": [
+        "Defi"
+    ],
+    "links": []
+}
